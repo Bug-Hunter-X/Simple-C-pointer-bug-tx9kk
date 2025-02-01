@@ -1,0 +1,1 @@
+This repository contains a simple C program with a common pointer-related bug. The bug is related to pointer arithmetic and memory management. The solution demonstrates how to fix this bug.
